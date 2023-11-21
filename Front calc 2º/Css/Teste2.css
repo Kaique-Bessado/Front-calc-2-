@@ -1,0 +1,268 @@
+#sla{
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.frame {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame .overlap-wrapper {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1726px;
+  height: 1507px;
+}
+
+.frame .overlap {
+  position: relative;
+  width: 1778px;
+  height: 1698px;
+  top: -132px;
+  left: -15px;
+}
+
+.frame .rectangle {
+  position: absolute;
+  width: 1726px;
+  height: 1507px;
+  top: 132px;
+  left: 15px;
+}
+
+.frame .group {
+  top: 1054px;
+  position: absolute;
+  width: 83px;
+  height: 82px;
+  left: 176px;
+}
+
+.frame .overlap-group {
+  position: relative;
+  height: 82px;
+}
+
+.frame .ellipse {
+  width: 83px;
+  top: 0;
+  background-color: #164182;
+  border-radius: 41.5px/37.78px;
+  position: absolute;
+  height: 76px;
+  left: 0;
+}
+
+.frame .div {
+  width: 81px;
+  top: 6px;
+  background-color: #fca035;
+  border-radius: 40.26px/37.78px;
+  position: absolute;
+  height: 76px;
+  left: 0;
+}
+
+.frame .overlap-group-wrapper {
+  top: 1206px;
+  position: absolute;
+  width: 83px;
+  height: 82px;
+  left: 176px;
+}
+
+.frame .div-wrapper {
+  top: 1340px;
+  position: absolute;
+  width: 83px;
+  height: 82px;
+  left: 176px;
+}
+
+.frame .text-wrapper {
+  position: absolute;
+  width: 1204px;
+  top: 476px;
+  left: 288px;
+  font-family: "Quantico-Bold", Helvetica;
+  font-weight: 700;
+  color: #393d81;
+  font-size: 120px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .como-usar-digite-os {
+  position: absolute;
+  width: 1260px;
+  height: 822px;
+  top: 876px;
+  left: 288px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .span {
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+}
+
+.frame .text-wrapper-2 {
+  font-size: 36px;
+}
+
+.frame .text-wrapper-3 {
+  font-size: 50px;
+}
+
+.frame .element {
+  position: absolute;
+  width: 62px;
+  top: 1070px;
+  left: 186px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.frame .text-wrapper-4 {
+  position: absolute;
+  width: 81px;
+  top: 1227px;
+  left: 207px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .text-wrapper-5 {
+  position: absolute;
+  width: 71px;
+  top: 1361px;
+  left: 207px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.frame .cabelho {
+  position: absolute;
+  width: 1778px;
+  height: 367px;
+  top: 0;
+  left: 0;
+}
+
+.frame .img {
+  position: absolute;
+  width: 1726px;
+  height: 154px;
+  top: 1675px;
+  left: 1288px;
+}
+
+.frame .div-2 {
+  position: absolute;
+  width: 1740px;
+  height: 367px;
+  top: 0;
+  left: 0;
+}
+
+.frame .rectangle-2 {
+  position: absolute;
+  width: 1726px;
+  height: 19px;
+  top: 275px;
+  left: 14px;
+  background-color: var(--laranja);
+}
+
+.frame .overlap-group-2 {
+  position: relative;
+  height: 283px;
+  top: 84px;
+}
+
+.frame .rectangle-3 {
+  position: absolute;
+  width: 1725px;
+  height: 143px;
+  top: 48px;
+  left: 15px;
+}
+
+.frame .menu {
+  position: absolute;
+  width: 71px;
+  height: 95px;
+  top: 82px;
+  left: 195px;
+}
+
+.frame .logo {
+  position: absolute;
+  width: 217px;
+  height: 283px;
+  top: 0;
+  left: 0;
+}
+
+.frame .o-removebg-preview {
+  position: absolute;
+  width: 202px;
+  height: 235px;
+  top: 48px;
+  left: 15px;
+  object-fit: cover;
+}
+
+.frame .vector {
+  position: absolute;
+  width: 75px;
+  height: 82px;
+  top: 162px;
+  left: 279px;
+}
+:root {
+  --laranja: rgba(252, 137, 54, 0.76);
+}
